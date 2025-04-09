@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# ML
+xgboost
+imbalanced-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Deployment
+streamlit
