@@ -43,7 +43,7 @@ The project employs time series analysis techniques, including:
 - __Pediction and Evaluation__
 
 
-![Machine Learning Pieline](Customer churn prediction app/pipeline.png)
+![Machine Learning Pieline]("Customer churn prediction app/pipeline.png")
   
 
 ## 🛠️ Tools & Technologies
