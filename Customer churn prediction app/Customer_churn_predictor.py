@@ -1,4 +1,4 @@
-import Customer_churn_predictor as st
+import streamlit as st
 import joblib
 import numpy as np
 import pandas as pd
