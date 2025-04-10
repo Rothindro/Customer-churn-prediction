@@ -21,15 +21,15 @@ In this project, we have utilized the above mentioned dataset, which contains co
 | **Age**              | Customer age                                     |
 | **Tenure**           | Years with bank                                  | 
 | **Balance**          | Account balance                                  |
-| **NumOfProducts**    |: Bank products held                              |
-| **HasCrCard**        |Credit card ownership                             |
-| **IsActiveMember**   |Account activity status                           |
-| **EstimatedSalary**  |Annual income                                     |
-| **Complain**         |Complaint history                                 |
+| **NumOfProducts**    | Bank products held                              |
+| **HasCrCard**        | Credit card ownership                             |
+| **IsActiveMember**   | Account activity status                           |
+| **EstimatedSalary**  | Annual income                                     |
+| **Complain**         | Complaint history                                 |
 | **SatisfactionScore**| Resolution satisfaction                          |
 | **CardType**         | Credit card type                                 | 
-| **PointsEarned**     |Loyalty points                                    |
-| **Exited**           |Target variable (1=churned, 0=retained).          |
+| **PointsEarned**     | Loyalty points                                    |
+| **Exited**           | Target variable (1=churned, 0=retained).          |
 
 
 ## ⚙️Methods
