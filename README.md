@@ -29,7 +29,7 @@ In this project, we have utilized the above mentioned dataset, which contains co
 | **SatisfactionScore**| Resolution satisfaction                                              |           
 | **CardType**         | Credit card type                                                     | 
 | **PointsEarned**     | Loyalty points                                                       |
-| **Exited**           | Target variable (1=customer has left the bank, 0=retained).          |
+| **Exited**           | Target variable (1=customer has left the bank, 0=retained)           |
 
 
 ## ⚙️Methods
