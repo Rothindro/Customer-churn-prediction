@@ -10,26 +10,26 @@ Extrcated customer attrition insights dataset from [Kaggle](https://www.kaggle.c
 
 In this project, we have utilized the above mentioned dataset, which contains contains **10,000 records** of ADFC Bank customers with 18 attributes. Key features include:
 
-| Feature              | Relevance to Churn                               |
-|----------------------|--------------------------------------------------|
-| **RowNumber**        | Sequential record identifier                     |
-| **CustomerId**       | Unique customer identifier                       |
-| **Surname**          | Customer's last name                             |
-| **CreditScore**      | Numerical assessment of creditworthiness         |
-| **Geography**        | Customer's location                              |
-| **Gender**           | Customer's sex (Male/Female)                     |
-| **Age**              | Customer age                                     |
-| **Tenure**           | Years with bank                                  | 
-| **Balance**          | Account balance                                  |
-| **NumOfProducts**    | Bank products held                              |
-| **HasCrCard**        | Credit card ownership                             |
-| **IsActiveMember**   | Account activity status                           |
-| **EstimatedSalary**  | Annual income                                     |
-| **Complain**         | Complaint history                                 |
-| **SatisfactionScore**| Resolution satisfaction                          |
-| **CardType**         | Credit card type                                 | 
-| **PointsEarned**     | Loyalty points                                    |
-| **Exited**           | Target variable (1=churned, 0=retained).          |
+| Feature              | Relevance to Churn                                                   |
+|----------------------|----------------------------------------------------------------------|
+| **RowNumber**        | Sequential record identifier                                         |
+| **CustomerId**       | Unique customer identifier                                           |
+| **Surname**          | Customer's last name                                                 |
+| **CreditScore**      | Numerical assessment of creditworthiness                             |
+| **Geography**        | Customer's location                                                  |
+| **Gender**           | Customer's sex (Male/Female)                                         |
+| **Age**              | Customer age                                                         |
+| **Tenure**           | Years with bank                                                      | 
+| **Balance**          | Account balance                                                      |
+| **NumOfProducts**    | Bank products held                                                   |
+| **HasCrCard**        | Credit card ownership                                                |
+| **IsActiveMember**   | Account activity status                                              |
+| **EstimatedSalary**  | Annual income                                                        |
+| **Complain**         | Complaint history                                                    |
+| **SatisfactionScore**| Resolution satisfaction                                              |           
+| **CardType**         | Credit card type                                                     | 
+| **PointsEarned**     | Loyalty points                                                       |
+| **Exited**           | Target variable (1=customer has left the bank, 0=retained).          |
 
 
 ## ⚙️Methods
