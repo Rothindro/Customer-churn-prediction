@@ -3,7 +3,7 @@
 ## 🎯Overview:
 Customer churn is one of the most critical challenges facing ADFC Bank, directly impacting revenue, profitability, and long-term growth. This project aims to analyze historical banking data to predict customer attrition before it happens by leveraging machine learning. This project seeks to imply data-driven strategy by moving beyond intuition to AI-powered insights on why customers leave—whether due to dissatisfaction, competitive offers, or life-stage changes by identifying at-risk customers early so that ADFC Bank can deploy targeted interventions (e.g., personalized offers, service recovery) to improve loyalty.
 
-Extrcated customer attrition insights dataset from ([Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) using Kaggle API:
+Extrcated customer attrition insights dataset from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) using Kaggle API:
 
 - __Bank-Customer-Attrition-Insights-Data__
 
